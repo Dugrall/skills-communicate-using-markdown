@@ -10,4 +10,11 @@ This next addition is an attempt to add pictures in accordance with the practice
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+This is another addition to add a code block to the file and making sure that it ingests to the branch properly
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
 ###### This is a H6 header that I am using as a footnote
