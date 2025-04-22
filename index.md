@@ -5,13 +5,13 @@
 ### Attempt at a H3 header
 
 Outline of expectations for this training
-- [ ] Turn on GitHub Pages
-- [ ] Introduce myself to the world
-- [ ] Start the Skills-Communicate-Using-Markdown lesson to expand my knowledge on this foundational program
-- [ ] Add headers
-- [ ] Put in Pictures
-- [ ] Include code blocks in files
-- [ ] Create an Outline of expectations for this training Outline
+- [x] Turn on GitHub Pages
+- [x] Introduce myself to the world
+- [x] Start the Skills-Communicate-Using-Markdown lesson to expand my knowledge on this foundational program
+- [x] Add headers
+- [x] Put in Pictures
+- [x] Include code blocks in files
+- [x] Create an Outline of expectations for this training Outline
 - [ ] Profit
 
 
